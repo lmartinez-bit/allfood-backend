@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "UPC.Business.API.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User/GetListUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

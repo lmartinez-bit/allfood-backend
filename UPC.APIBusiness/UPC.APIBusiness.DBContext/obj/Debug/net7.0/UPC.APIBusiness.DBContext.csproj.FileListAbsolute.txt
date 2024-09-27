@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\net7.0\UPC.APIBusiness.DBContext.deps.json
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\net7.0\UPC.APIBusiness.DBContext.dll
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\net7.0\UPC.APIBusiness.DBContext.pdb
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\net7.0\UPC.APIBusiness.DBEntity.dll
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\net7.0\UPC.APIBusiness.DBEntity.pdb
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\UPC.APIBusiness.DBContext.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\UPC.APIBusiness.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\UPC.APIBusiness.DBContext.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\UPC.APIBusiness.DBContext.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\UPC.APIBusiness.DBContext.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\UPC.APIB.FDD883C0.Up2Date
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\UPC.APIBusiness.DBContext.dll
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\refint\UPC.APIBusiness.DBContext.dll
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\UPC.APIBusiness.DBContext.pdb
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\net7.0\ref\UPC.APIBusiness.DBContext.dll

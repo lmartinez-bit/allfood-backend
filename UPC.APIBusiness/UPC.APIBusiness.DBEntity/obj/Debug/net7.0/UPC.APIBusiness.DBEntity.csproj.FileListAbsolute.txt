@@ -1,0 +1,11 @@
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Debug\net7.0\UPC.APIBusiness.DBEntity.deps.json
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Debug\net7.0\UPC.APIBusiness.DBEntity.dll
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Debug\net7.0\UPC.APIBusiness.DBEntity.pdb
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net7.0\UPC.APIBusiness.DBEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net7.0\UPC.APIBusiness.DBEntity.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net7.0\UPC.APIBusiness.DBEntity.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net7.0\UPC.APIBusiness.DBEntity.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net7.0\UPC.APIBusiness.DBEntity.dll
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net7.0\refint\UPC.APIBusiness.DBEntity.dll
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net7.0\UPC.APIBusiness.DBEntity.pdb
+C:\Users\Luis\Desktop\Prueba-Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net7.0\ref\UPC.APIBusiness.DBEntity.dll
