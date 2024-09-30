@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\AllfoodBackend.csproj": {}
+  },
+  "projects": {
+    "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\AllfoodBackend.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\AllfoodBackend.data.csproj",
+        "projectName": "AllfoodBackend.data",
+        "projectPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\AllfoodBackend.data.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\AllfoodBackend.model.csproj": {
+                "projectPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\AllfoodBackend.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\AllfoodBackend.model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\AllfoodBackend.model.csproj",
+        "projectName": "AllfoodBackend.model",
+        "projectPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\AllfoodBackend.model.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\AllfoodBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\AllfoodBackend.csproj",
+        "projectName": "AllfoodBackend",
+        "projectPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\AllfoodBackend.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\AllfoodBackend.data.csproj": {
+                "projectPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\AllfoodBackend.data.csproj"
+              },
+              "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\AllfoodBackend.model.csproj": {
+                "projectPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\AllfoodBackend.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

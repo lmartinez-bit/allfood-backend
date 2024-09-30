@@ -1,0 +1,15 @@
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\bin\Debug\net7.0\AllfoodBackend.data.deps.json
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\bin\Debug\net7.0\AllfoodBackend.data.dll
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\bin\Debug\net7.0\AllfoodBackend.data.pdb
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\bin\Debug\net7.0\AllfoodBackend.model.dll
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\bin\Debug\net7.0\AllfoodBackend.model.pdb
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\AllfoodBackend.data.csproj.AssemblyReference.cache
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\AllfoodBackend.data.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\AllfoodBackend.data.AssemblyInfoInputs.cache
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\AllfoodBackend.data.AssemblyInfo.cs
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\AllfoodBackend.data.csproj.CoreCompileInputs.cache
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\AllfoodB.622E14E0.Up2Date
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\AllfoodBackend.data.dll
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\refint\AllfoodBackend.data.dll
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\AllfoodBackend.data.pdb
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.data\obj\Debug\net7.0\ref\AllfoodBackend.data.dll

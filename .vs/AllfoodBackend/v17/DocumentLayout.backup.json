@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29ED0AB0-F4D0-4F0B-9F97-D95670ABAAD5}|AllfoodBackend.model\\AllfoodBackend.model.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ED0AB0-F4D0-4F0B-9F97-D95670ABAAD5}|AllfoodBackend.model\\AllfoodBackend.model.csproj|solutionrelative:allfoodbackend.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|solutionrelative:allfoodbackend.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|solutionrelative:allfoodbackend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|solutionrelative:allfoodbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend.data\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|solutionrelative:allfoodbackend.data\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|solutionrelative:allfoodbackend\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend.data\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|solutionrelative:allfoodbackend.data\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|solutionrelative:allfoodbackend\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|solutionrelative:allfoodbackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ED0AB0-F4D0-4F0B-9F97-D95670ABAAD5}|AllfoodBackend.model\\AllfoodBackend.model.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ED0AB0-F4D0-4F0B-9F97-D95670ABAAD5}|AllfoodBackend.model\\AllfoodBackend.model.csproj|solutionrelative:allfoodbackend.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ED0AB0-F4D0-4F0B-9F97-D95670ABAAD5}|AllfoodBackend.model\\AllfoodBackend.model.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend.model\\adicional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ED0AB0-F4D0-4F0B-9F97-D95670ABAAD5}|AllfoodBackend.model\\AllfoodBackend.model.csproj|solutionrelative:allfoodbackend.model\\adicional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend.data\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|solutionrelative:allfoodbackend.data\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend.data\\postgresqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C2E17-06C2-4D51-8E37-9DC09B69C969}|AllfoodBackend.data\\AllfoodBackend.data.csproj|solutionrelative:allfoodbackend.data\\postgresqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|e:\\workspaces\\visualstudioworkspace\\upc\\desarrollo-entorno-web\\allfoodbackendversionfinal\\allfoodbackend\\allfoodbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C926792-4736-4B9A-94F6-43EF70FB0AE5}|AllfoodBackend\\AllfoodBackend.csproj|solutionrelative:allfoodbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend.data\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "AllfoodBackend.data\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAApwEEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:20:15.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend.data\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "AllfoodBackend.data\\Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:12:34.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend.data\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "AllfoodBackend.data\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:57:34.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend\\Controllers\\CategoriaController.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "AllfoodBackend\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:20:49.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AllfoodBackend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:24:50.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Startup.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend\\Startup.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Startup.cs",
+              "RelativeToolTip": "AllfoodBackend\\Startup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:58:21.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Program.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend\\Program.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Program.cs",
+              "RelativeToolTip": "AllfoodBackend\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:51:48.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\Producto.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend.model\\Producto.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\Producto.cs",
+              "RelativeToolTip": "AllfoodBackend.model\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:14:07.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend\\Controllers\\ProductoController.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "AllfoodBackend\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:42:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Adicional.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\Adicional.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend.model\\Adicional.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\Adicional.cs",
+              "RelativeToolTip": "AllfoodBackend.model\\Adicional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:19:49.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "AllfoodBackend\\appsettings.json",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend\\appsettings.json",
+              "RelativeToolTip": "AllfoodBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T04:46:51.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostgreSQLConfiguration.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\PostgreSQLConfiguration.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend.data\\PostgreSQLConfiguration.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\PostgreSQLConfiguration.cs",
+              "RelativeToolTip": "AllfoodBackend.data\\PostgreSQLConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:55:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\Categoria.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend.model\\Categoria.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.model\\Categoria.cs",
+              "RelativeToolTip": "AllfoodBackend.model\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:54:52.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\Repositories\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "AllfoodBackend.data\\Repositories\\ICategoriaRepository.cs",
+              "ToolTip": "E:\\workspaces\\VisualStudioWorkspace\\UPC\\desarrollo-entorno-web\\AllfoodBackendVersionFinal\\AllfoodBackend\\AllfoodBackend.data\\Repositories\\ICategoriaRepository.cs",
+              "RelativeToolTip": "AllfoodBackend.data\\Repositories\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:56:30.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

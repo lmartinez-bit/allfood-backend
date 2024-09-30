@@ -1,0 +1,11 @@
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\bin\Debug\net7.0\AllfoodBackend.model.deps.json
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\bin\Debug\net7.0\AllfoodBackend.model.dll
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\bin\Debug\net7.0\AllfoodBackend.model.pdb
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\obj\Debug\net7.0\AllfoodBackend.model.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\obj\Debug\net7.0\AllfoodBackend.model.AssemblyInfoInputs.cache
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\obj\Debug\net7.0\AllfoodBackend.model.AssemblyInfo.cs
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\obj\Debug\net7.0\AllfoodBackend.model.csproj.CoreCompileInputs.cache
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\obj\Debug\net7.0\AllfoodBackend.model.dll
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\obj\Debug\net7.0\refint\AllfoodBackend.model.dll
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\obj\Debug\net7.0\AllfoodBackend.model.pdb
+E:\workspaces\VisualStudioWorkspace\UPC\desarrollo-entorno-web\AllfoodBackendVersionFinal\AllfoodBackend\AllfoodBackend.model\obj\Debug\net7.0\ref\AllfoodBackend.model.dll

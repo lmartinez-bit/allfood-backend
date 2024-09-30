@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "AllfoodBackend.Controllers.CategoriaController",
+    "Method": "GetAllCategorias",
+    "RelativePath": "api/Categoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AllfoodBackend.Controllers.ProductoController",
+    "Method": "Get",
+    "RelativePath": "api/Producto",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
